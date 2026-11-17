@@ -1,1 +1,0 @@
-FreeCodeCamp Number Guessing Game
